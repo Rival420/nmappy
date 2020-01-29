@@ -9,4 +9,4 @@ After we got all the ports, the command will scan every found port with tags "-s
 this all in one effective line :)
  
  
- [+] usage: bash nmappy.sh <ip> 
+ [+] usage: bash nmappy.sh IP 
